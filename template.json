@@ -1,0 +1,18 @@
+{
+    "Council": "",
+    "Bill Number": 0,
+    "AmendmentNumber": null,
+    "ShortName": "",
+    "FullName": "",
+    "Authors": [""],
+
+    "IsActive": true,
+
+    "Aye": "",
+    "Abs": 0,
+    "Nay": 0,
+
+    "DatePassed": "YYYY-MM-DD",
+
+    "Content": ""
+}
