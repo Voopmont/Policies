@@ -1,5 +1,3 @@
-Start viewing Voopmont's bills.
-
 - [District Council](VDC/index.md)
 - [Voopmontian People's Council](VPC/index.md)
 - [Icelesian People's Council](IPC/index.md)
