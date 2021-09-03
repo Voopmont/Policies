@@ -3,6 +3,7 @@ BillNumber: 0
 AmendmentNumber: null
 ShortName: 
 FullName: 
+Description: 
 Authors:
   - 
 IsActive:
