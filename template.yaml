@@ -1,0 +1,14 @@
+Council:
+BillNumber: 0
+AmendmentNumber: null
+ShortName: 
+FullName: 
+Authors:
+  - 
+IsActive:
+Aye: 0
+Abs: 0
+Nay: 0
+DateCreated: YYYY-MM-DD
+DatePassed: YYYY-MM-DD
+Content: 
