@@ -1,3 +1,3 @@
 Currently a WIP!
 
-Latest policy: [001//VCCA](001.md)
+Latest policy: [001//VCCA](001)
