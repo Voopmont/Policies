@@ -3,7 +3,7 @@ This repository contains all of Voopmont's district policies.
 
 ## Structure
 ```
-Policies/
+docs/
 ├── IPC/
 │   ├── 001.md
 │   ├── 002.md
