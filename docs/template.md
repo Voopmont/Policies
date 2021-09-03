@@ -1,15 +1,24 @@
 --- 
-Council: name
-ShortName: name
-FullName: name
-Authors: a, b, c
-
+Council:
+BillNumber: 0
+AmendmentNumber: null
+ShortName: 
+FullName: 
+Description: 
+Authors:
+  - 
+IsActive:
+Aye: 0
+Abs: 0
+Nay: 0
+DateCreated: YYYY-MM-DD
+DatePassed: YYYY-MM-DD
 ---
 
-# name of the bill
+# Bill Name
 
-## section 1
+## Section 1
 ....
 
-## section 2
+## Section 2
 ...
