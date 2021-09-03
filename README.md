@@ -3,14 +3,14 @@ This repository contains all of Voopmont's district policies.
 
 ## Structure
 ```
-Policies
-├── IPC
-│   ├── 001
-│   ├── 002
-│   ├── 002-1
-│   └── 003
-├── VDC
-└── VPC
+Policies/
+├── IPC/
+│   ├── 001.md
+│   ├── 002.md
+│   ├── 002-1.md
+│   └── 003.md
+├── VDC/
+└── VPC/
 ```
 
 ### Councils
