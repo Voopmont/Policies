@@ -1,18 +1,21 @@
 {
     "Council": "",
     "BillNumber": 0,
-    "AmendmentNumber": null,
+    "AmendmentNumber": 0,
     "ShortName": "",
     "FullName": "",
     "Authors": [""],
 
     "IsActive": true,
 
-    "Aye": "",
+    "Aye": 0,
     "Abs": 0,
     "Nay": 0,
 
+    "DateCreated": "YYYY-MM-DD",
     "DatePassed": "YYYY-MM-DD",
-
-    "Content": ""
+    
+    "Content": {
+        "Section1": ""
+    }
 }
