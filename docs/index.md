@@ -1,3 +1,2 @@
-- [District Council](VDC/index.md)
-- [Voopmontian People's Council](VPC/index.md)
-- [Icelesian People's Council](IPC/index.md)
+- [Voopmontian Council](VC/index)
+- [Icelesian Council](IC/index)
